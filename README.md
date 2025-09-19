@@ -12,13 +12,15 @@
 
 ## About
 
-A simple gasoline price tracker web application for Balikpapan City. It tracks Pertalite to Pertamax from Pertamina, Shell, BP, & Vivo.
+A simple gasoline price tracker web application for Balikpapan City.
+
+It tracks Pertalite to Pertamax from Pertamina, Shell, BP, & Vivo.
 
 The name 'myminyak' derives from the combination of the English word _my_ & the Indonesian word _minyak_ ('oil').
 
 ## Description
 
-The primary objective is to learn TypeScript, Node, & Express by implementing professional-grade back-end web application development methodologies & toolings:
+The primary objective is to learn TypeScript, Node.js, & Express.js by implementing professional-grade back-end web application development methodologies & toolings:
 
 - Linting
 - Code formatting
@@ -28,7 +30,12 @@ The primary objective is to learn TypeScript, Node, & Express by implementing pr
 - CI/CD
 - `// In progress...`
 
-The secondary objective is to create a web application that visualize one of the top issues in Balikpapan: high gasoline prices.
+In this project, I picked TypeScript & Express.js due to these reasons:
+
+- TypeScript is an industry standard for building modern applications with major libraries/frameworks (_e.g._ React & Angular).
+- Express.js is a great back-end framework for novice like me to explore core concepts of server-side development (_e.g._ routing, middleware, & request/response cycles).
+
+The secondary objective is to create a web application that visualize one of the top issues in Balikpapan City: high gasoline prices.
 
 ## Stack
 
