@@ -1,0 +1,13 @@
+{
+  "name": "myminyak-app",
+  "version": "1.0.0",
+  "description": "A Balikpapan gasoline price tracker app",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gulfani Putra",
+  "license": "ISC"
+}
